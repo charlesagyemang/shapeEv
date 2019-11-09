@@ -1,0 +1,26 @@
+<resources>
+    //app name action bar
+    <string name="app_name">Shape Events</string>
+    <string name="title_activity_main_menu">Shape Event App</string>
+
+
+    //nav drawer 0.1
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    //nav drawer
+    <string name="categories">Categories</string>
+
+    <string name="action_settings"></string>
+    <string name="post_an_ad">Post An Ad</string>
+    <string name="post_and_add">Post An Add</string>
+    <string name="categoriess">Categories</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="bad_net">Oh No! Bad network please check your network settings or</string>
+    <string name="reload">reload</string>
+    <string name="browse_ads">Browse Ads</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
